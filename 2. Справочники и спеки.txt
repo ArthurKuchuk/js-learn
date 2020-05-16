@@ -1,0 +1,19 @@
+https://www.ecma-international.org/publications/standards/Ecma-262.htm
+Спецификация ES262
+
+Черновики
+https://tc39.es/ecma262/
+
+Нововведения которые практически в стандарте  
+https://github.com/tc39/proposals
+
+
+MDN 
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference
+
+MSDN 
+http://msdn.microsoft.com/
+
+https://caniuse.com/
+
+https://kangax.github.io/compat-table
